@@ -1,8 +1,6 @@
 ###############################################
 '''''
-CMPUT 501, ASG 1
-Authors: Mohammad Karimiabdolmaleki, Ali Zamani
-CCIDs: karimiab, azamani1
+Authors: Ali Zamani
 '''''
 ###############################################
 # Importing Prerequisites
