@@ -49,18 +49,6 @@ As mentioned before, news articles usually have a lot of time references, and we
 
 - Learning Objectives : Learn how to use regular expressions to extract information from text.
 
-
-This is a solution to Assignment 1 for CMPUT 501 - Intro to NLP at the University of Alberta, created during the Fall 2020 semester.
-
-
-
-## TODOs
-
-In this file you **must**:
-- [x] Fill out the team table above. Please note that CCID is **different** from your student number.
-- [x] Acknowledge all resources consulted (discussions, texts, urls, etc.) while working on an assignment. Non-detailed oral discussion with others is permitted as long as any such discussion is summarized and acknowledged by all parties.
-- [x] Provide clear installation and execution instructions that TAs must follow to execute your code.
-
 ## Execution
 Use the following command in the current directory.
 
